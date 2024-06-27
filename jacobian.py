@@ -1,7 +1,7 @@
 import numpy as np
 import sympy as sp
 
-## Forward Kinematics ##
+## Forward Kinematics ## done
 # link lengths in cm
 a1 = float(input("a1 = ")) # For testing, 55 mm
 a2 = float(input("a2 = ")) # For testing, 60 mm
